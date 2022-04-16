@@ -1,6 +1,7 @@
 .btn {
   width: 100px;
-  padding: 8px 15px;
+  font-size: 18px;
+  padding: 10px 15px;
   margin: 10px;
   border-radius: 5%;
   cursor: pointer;
@@ -8,6 +9,6 @@
   background-color: #fff;
 }
 .btn:hover {
-  background-color: #808788;
+  background-color: blue;
   color: #fff;
 }
